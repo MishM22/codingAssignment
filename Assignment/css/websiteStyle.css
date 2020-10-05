@@ -1,0 +1,36 @@
+body 
+{
+	background-color:rgb(10,10,100);
+}
+h1,h2,h3,ul,ol,li,dl,dt,dd,a
+{
+	color: white;
+	font-family: arial;
+
+}
+header
+{
+background:rgb(100,10,100);
+text-align:center;
+font-size:500%;
+color:white;
+margin:30px;
+font-family:impact;
+}
+nav
+{
+background-color:rgb(150,150,150);
+color: white;
+border-style:outset;
+}
+p
+{
+color: white;
+font-family: arial;
+}
+.pic
+{
+	float:left;
+	padding:10px;
+
+}
